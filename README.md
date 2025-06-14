@@ -1,6 +1,6 @@
 # 📝 To-Do List Application
 
-![To-Do List App Screenshot](./) 
+![To-Do List App Screenshot](./Screenshot from 2025-06-14 09-40-45.png) 
 
 ## 🌟 Overview
 A clean, responsive to-do list application built with pure HTML, CSS, and JavaScript. Features task management, filtering, and persistent local storage.
